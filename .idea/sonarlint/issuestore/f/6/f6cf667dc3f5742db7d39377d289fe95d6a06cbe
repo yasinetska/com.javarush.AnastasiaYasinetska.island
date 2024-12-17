@@ -1,0 +1,41 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞºÒ¶ıÿÿÿÿJ$be62d47e-5072-4ad8-8fa0-fa6202aac8b0
+d
+java:S1170"!Make this final field static too.(Øá¢8„£±©½2J$33631f23-fd04-4e6e-be6f-563e9aca3baa
+r	java:S106!"+Replace this use of System.out by a logger.(é”Ú›üÿÿÿÿ8‘£±©½2J$4a64827c-5fd1-4f3d-bddc-ab9e0a7ecf32
+…
+java:S1612#"=Replace this lambda with method reference 'this::growPlants'.(µ¨§†üÿÿÿÿ8’£±©½2J$e9b91b1e-6e85-42d1-963a-2138184eec4d
+m	java:S106H"+Replace this use of System.err by a logger.(æ†ÈÃ8˜£±©½2J$4e47ba01-d8d9-4807-bd8d-a7376dad586b
+š
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Õº«êûÿÿÿÿ8£±©½2J$99f42517-e2da-45c3-af7b-684e06351ccd
+n	java:S106"+Replace this use of System.out by a logger.(‹Êâ’8¡£±©½2J$becdcef8-d0d2-45d3-b9df-55fadc4823c7
+m	java:S106"+Replace this use of System.out by a logger.(Ÿ’Õ8¡£±©½2J$cca9ad7f-079d-43be-8c0b-e22a7a4293b6
+m	java:S106‘"+Replace this use of System.out by a logger.(ü›8¡£±©½2J$fa9b17f6-a07e-47eb-9590-415c9abe12a3
+š
+java:S3457’"Q%n should be used in place of \n to produce the platform-specific line separator.(’ë¡Òùÿÿÿÿ8¢£±©½2J$c49829ff-d8bf-43f0-9e97-a6a749d10878
+s	java:S106’"+Replace this use of System.out by a logger.(’ë¡Òùÿÿÿÿ8££±©½2J$cc496e0b-641e-42b0-b33d-812c23fe83bb
+•
+java:S3457“"Q%n should be used in place of \n to produce the platform-specific line separator.(‹õş8¤£±©½2J$b966043a-e40b-4e91-8a41-fdc9eaae5e61
+n	java:S106“"+Replace this use of System.out by a logger.(‹õş8¤£±©½2J$8c8f4352-a3e9-4a0c-a996-d9720b3713c5
+s	java:S106•"+Replace this use of System.out by a logger.(Ì˜ÿÿÿÿÿ8¥£±©½2J$3df0d5ca-bdf3-4291-bc59-03f30dfd0a71
+n
+java:S3457™"Q%n should be used in place of \n to produce the platform-specific line separator.(¾ÎŒ8Èƒ¾ª½2
+m	java:S106™"+Replace this use of System.out by a logger.(¾ÎŒ8¦£±©½2J$ae28abff-401a-4f7d-9510-4625ce5077a4
+s	java:S106›"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8§£±©½2J$4c41ba43-a556-4431-a903-f2195edecbeb
+s	java:S106Ÿ"+Replace this use of System.out by a logger.(óıœìşÿÿÿÿ8§£±©½2J$cab286f0-ff35-47a9-b762-7b1f7e2a67c1
+n
+java:S3457£"Q%n should be used in place of \n to produce the platform-specific line separator.(¾ÎŒ8Ëƒ¾ª½2
+m	java:S106£"+Replace this use of System.out by a logger.(¾ÎŒ8©£±©½2J$66e22232-0306-438b-981f-7babe25f5234
+m	java:S106¦"+Replace this use of System.out by a logger.(Ëã’"8©£±©½2J$d79a616f-e2b8-44cd-8516-73b73f12ac35
+•
+java:S3457§"Q%n should be used in place of \n to produce the platform-specific line separator.( Óİœ8©£±©½2J$207f6cc8-c5b7-4df3-ae1f-705c23bfbf04
+n	java:S106§"+Replace this use of System.out by a logger.( Óİœ8©£±©½2J$d149c3b2-ccb2-4633-83cb-ec3787b561d3
+•
+java:S3457¨"Q%n should be used in place of \n to produce the platform-specific line separator.(„ßİÀ8ª£±©½2J$7234599e-4631-4cb0-b280-f18c475c4d80
+n	java:S106¨"+Replace this use of System.out by a logger.(„ßİÀ8ª£±©½2J$31774369-04db-4006-8f86-315a7967438b
+”
+java:S3457©"Q%n should be used in place of \n to produce the platform-specific line separator.(ø¨ Z8«£±©½2J$649bcf03-f525-4097-9af9-46e4078025c3
+m	java:S106©"+Replace this use of System.out by a logger.(ø¨ Z8«£±©½2J$9866be91-7b06-4273-b2df-ed546667c526
+n	java:S106ª"+Replace this use of System.out by a logger.(™²“õ8¬£±©½2J$f54a08d0-f908-4319-a27b-f1836b181cd1
+
+java:S6541]"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 68 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 19 to 6.(Õº«êûÿÿÿÿ8­£±©½2J$0f04506e-b658-47f5-b8e8-7f07005455fd
